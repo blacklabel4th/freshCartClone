@@ -1,0 +1,111 @@
+
+.brand{
+    margin-right: 90px;
+}
+
+
+.form11{
+    width: 700px;
+    margin-right: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .form11{
+        width: 100% !important;
+    }
+}
+
+.form12{
+    border-right: 0px;
+}
+
+.border1{
+    background: white;
+    border-left: 0px;
+    
+}
+
+.pic1{
+    height :20px;
+    width : 20px;
+}
+
+.nav-item:hover .dropdown-menu {
+    display: block;
+}
+
+.line1{
+    border-bottom: 1px solid rgb(196, 196, 196);
+    padding-bottom: 1rem;
+    margin-bottom: 40px;
+}
+
+
+.content-item{
+    height:550px;
+    background-size: cover;
+    border-radius:0.5rem;
+}
+
+
+.content{
+    border-radius:0.5rem;
+    
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 8px;
+    height: 8px;
+    border-radius: 100%;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #21313c;
+  }
+
+.my-caption{
+    position: absolute;
+    bottom: 150px;
+    right: 250px;
+    text-align: right;
+}
+.my-caption p{
+    color: #000;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.my-caption span{
+    background-color: rgb(230, 180, 17);
+    border-radius: 8px;
+    padding: 0.15rem 0.45rem; 
+}
+
+.my-caption button{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin: 12px 0px 0px;
+    font-size: 14px;
+    padding: 9px 16px;
+}
+
+.my-caption h1{
+    color: rgb(37, 37, 37);
+    font-weight: 700;
+    margin-top: 1rem;
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+.my-caption h4{
+    color: #111213;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    font-size: 1.09375rem;
+    font-weight: 500;
+}
+
+
+.line2{
+    margin-bottom: 60px;
+}
+
