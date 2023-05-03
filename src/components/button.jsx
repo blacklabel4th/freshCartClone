@@ -10,7 +10,7 @@ const button = () => {
         <div
           className="card-body "
           style={{
-            borderRadius: "2px",
+            borderRadius: "10px",
             backgroundSize: "cover",
             backgroundImage: `url('${process.env.PUBLIC_URL}/gg2.jpg')`,
           }}
